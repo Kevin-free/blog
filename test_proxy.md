@@ -21,3 +21,8 @@ git push 成功，vscode push 成功。
 
 ## 关闭网络自动代理
 
+push 正常
+
+## 关闭网络自动代理，开启chrome插件代理时
+
+
