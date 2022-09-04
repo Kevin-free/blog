@@ -15,3 +15,4 @@ git config --global --unset https.proxy
 ```
 
 git push 成功，vscode push 成功。
+有时会 timeout。
