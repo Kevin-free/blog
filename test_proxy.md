@@ -1,4 +1,4 @@
-当设置网络代理时，git，vscode 均 push 失败。
+当设置网络自动代理配置时，git，vscode 均 push 失败。
 
 取消代理
 
@@ -14,5 +14,4 @@ git config --global --unset http.proxy
 git config --global --unset https.proxy
 ```
 
-git push 成功，
-
+git push 成功，vscode push 成功。
